@@ -72,7 +72,7 @@ void specialKeyPressed(int key, int x, int y)
 	}
 }
 
-GLvoid InitGL(GLsizei Width, GLsizei Height)											// We call this right after our OpenGL window is created.
+GLvoid InitGL(GLsizei Width, GLsizei Height)											// We call this right after our OpenGL window is created
 {
 	glClearColor(0, 0, 0, 0);
 	glClearDepth(1);
