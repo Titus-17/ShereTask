@@ -139,7 +139,7 @@ void display(void)
 		gluDeleteQuadric(quadObj3);
 		glPopMatrix();
 
-		// Рисование векторов
+		// Рисование векторов 
 		glBegin(GL_LINES);
 		glColor3d(1, 0.6, 0.6); 
 		glVertex3d(T1.x[Iter] / 10, T1.y[Iter] / 10, T1.z[Iter] / 10);
