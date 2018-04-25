@@ -27,9 +27,6 @@
     <ClCompile Include="GLMovement.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Rez.cpp">
-      <Filter>Файлы ресурсов</Filter>
-    </ClCompile>
     <ClCompile Include="Read.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
