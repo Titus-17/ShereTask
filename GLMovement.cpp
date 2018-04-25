@@ -1,4 +1,4 @@
-#include <GL/glut.h>	// Для GLUT_KEYs
+#include <GL/glut.h>	// Для GLUT_KEYs...
 #include <iostream>		// cout/отладка
 #include <math.h>		// Для математики
 #include <windows.h>	// Для Sleep()
