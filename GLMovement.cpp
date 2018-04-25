@@ -96,7 +96,7 @@ void display(void)
 	GLfloat y1 = 360.0f - yrot;
 	int test = 0;
 	test += 1;
-	Iter = Iter + 30;																	// Скорость увеличена в 30 раз!
+	Iter = Iter + 30;																	// Скорость увеличена в 30 раз
 
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);									// Clear The Screen And The Depth Buffer
 	glLoadIdentity();
