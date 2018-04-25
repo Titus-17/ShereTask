@@ -7,7 +7,7 @@
 #include "Read.hpp"
 
 
-/*ASCII коды для специальных кнопок*/
+/*ASCII коды для специальных кнопок*//
 #define ESCAPE 27
 
 const float piover180 = 0.0174532925f;
